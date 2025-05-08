@@ -1,1 +1,2 @@
-Welcome to a list of my projects.
+Welcome to a list of my [projects](projects.html).
+
